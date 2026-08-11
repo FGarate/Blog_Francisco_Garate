@@ -1,19 +1,34 @@
 ---
-title: "About"
+title: "Sobre mí"
 image: profile.jpg
 about:
   template: jolla
   links:
-    - icon: bluesky
-      text: Bluesky
-      href: https://bsky.app/
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
     - icon: github
-      text: Github
-      href: https://github.com
-
+      text: GitHub
+      href: https://github.com/FGarate
 ---
 
-Sobre .... FG
+Soy **Francisco A. Gárate Flores**, y trabajo desde la Región del Biobío, Chile,
+en la intersección entre datos ambientales y decisiones concretas.
+
+Buena parte de lo que hago se reparte en tres frentes:
+
+**Huella de carbono.** En [Vestigium Advisors](https://vestigiumchile.cl) desarrollo
+la plataforma de cálculo de huella de carbono silvoagropecuaria: inventarios de
+gases de efecto invernadero bajo NCh-ISO 14064-1, verificables ante AENOR y el
+programa HuellaChile.
+
+**Gestión del riesgo de desastres.** En Terraxis construyo herramientas de
+análisis territorial para planes comunales de GRD — amenazas de incendio,
+inundación y remoción en masa, cruzadas con exposición y vulnerabilidad censal.
+
+**Agricultura a pequeña escala.** Llevo un microfundo experimental donde pruebo,
+con instrumentos y registro sistemático, cómo compensar el déficit hídrico que
+viene en clima mediterráneo.
+
+El hilo común es el método: R, Shiny, Google Earth Engine y la convicción de que
+un resultado que no se puede auditar no sirve de mucho.
+
+Aquí publico notas de trabajo — lo que aprendo, lo que se rompe y lo que
+finalmente funciona.

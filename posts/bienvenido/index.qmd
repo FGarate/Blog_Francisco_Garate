@@ -1,7 +1,25 @@
 ---
-title: Bienvenido
-author: Garate.francisco
-date: '2026-08-07'
+title: "Bienvenido"
+author: "Francisco Gárate"
+date: "2026-08-07"
+categories: [notas]
+description: "Qué voy a publicar acá y por qué."
 ---
 
+Abro este espacio para dejar por escrito lo que normalmente se queda en carpetas
+de trabajo: decisiones metodológicas, callejones sin salida y las correcciones
+que solo aparecen cuando uno vuelve a mirar un cálculo seis meses después.
 
+Voy a escribir sobre cuatro cosas, que en la práctica son la misma:
+
+- **Huella de carbono** — cuantificación de gases de efecto invernadero bajo
+  ISO 14064, el trabajo de reproducir un inventario verificado y por qué eso es
+  más difícil de lo que parece.
+- **Riesgo de desastres** — análisis territorial de amenazas y vulnerabilidad
+  para planes comunales.
+- **Microfundo** — el registro de una parcela en clima mediterráneo y el
+  problema del agua que viene.
+- **R y datos espaciales** — las herramientas con las que hago todo lo anterior.
+
+El criterio para publicar es simple: que sea algo que a mí me habría servido
+encontrar escrito.

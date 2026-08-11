@@ -1,9 +1,24 @@
+# R / RStudio
 .Rproj.user
 .Rhistory
 .RData
 .httr-oauth
-.DS_Store
-.quarto
 
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Quarto — cache interna
 /.quarto/
 **/*.quarto_ipynb
+
+# Quarto — output de build.
+# El sitio renderizado NO se versiona en esta rama: `quarto publish gh-pages`
+# lo publica en la rama gh-pages. Versionarlo acá genera churn en cada render
+# y conflictos al trabajar desde mas de un equipo.
+/_site/
+/docs/
+
+# NOTA: /_freeze/ SI se versiona a proposito — cachea los resultados de los
+# bloques de codigo R para que el sitio se pueda reconstruir sin re-ejecutar.
