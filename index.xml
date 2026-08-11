@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Francisco Gárate</title>
+<link>https://fgarate.github.io/Blog_Francisco_Garate/</link>
+<atom:link href="https://fgarate.github.io/Blog_Francisco_Garate/index.xml" rel="self" type="application/rss+xml"/>
+<description>Huella de carbono, gestión del riesgo de desastres y análisis geoespacial con R. Notas de trabajo desde el Biobío, Chile.</description>
+<generator>quarto-1.9.37</generator>
+<lastBuildDate>Fri, 07 Aug 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Bienvenido</title>
+  <dc:creator>Francisco Gárate</dc:creator>
+  <link>https://fgarate.github.io/Blog_Francisco_Garate/posts/bienvenido/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Abro este espacio para dejar por escrito lo que normalmente se queda en carpetas de trabajo: decisiones metodológicas, callejones sin salida y las correcciones que solo aparecen cuando uno vuelve a mirar un cálculo seis meses después.</p>
+<p>Voy a escribir sobre cuatro cosas, que en la práctica son la misma:</p>
+<ul>
+<li><strong>Huella de carbono</strong> — cuantificación de gases de efecto invernadero bajo ISO 14064, el trabajo de reproducir un inventario verificado y por qué eso es más difícil de lo que parece.</li>
+<li><strong>Riesgo de desastres</strong> — análisis territorial de amenazas y vulnerabilidad para planes comunales.</li>
+<li><strong>Microfundo</strong> — el registro de una parcela en clima mediterráneo y el problema del agua que viene.</li>
+<li><strong>R y datos espaciales</strong> — las herramientas con las que hago todo lo anterior.</li>
+</ul>
+<p>El criterio para publicar es simple: que sea algo que a mí me habría servido encontrar escrito.</p>
+
+
+
+ ]]></description>
+  <category>notas</category>
+  <guid>https://fgarate.github.io/Blog_Francisco_Garate/posts/bienvenido/</guid>
+  <pubDate>Fri, 07 Aug 2026 04:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

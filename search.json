@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "posts/bienvenido/index.html",
+    "href": "posts/bienvenido/index.html",
+    "title": "Bienvenido",
+    "section": "",
+    "text": "Abro este espacio para dejar por escrito lo que normalmente se queda en carpetas de trabajo: decisiones metodológicas, callejones sin salida y las correcciones que solo aparecen cuando uno vuelve a mirar un cálculo seis meses después.\nVoy a escribir sobre cuatro cosas, que en la práctica son la misma:\n\nHuella de carbono — cuantificación de gases de efecto invernadero bajo ISO 14064, el trabajo de reproducir un inventario verificado y por qué eso es más difícil de lo que parece.\nRiesgo de desastres — análisis territorial de amenazas y vulnerabilidad para planes comunales.\nMicrofundo — el registro de una parcela en clima mediterráneo y el problema del agua que viene.\nR y datos espaciales — las herramientas con las que hago todo lo anterior.\n\nEl criterio para publicar es simple: que sea algo que a mí me habría servido encontrar escrito."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Sobre mí",
+    "section": "",
+    "text": "Soy Francisco A. Gárate Flores, y trabajo desde la Región del Biobío, Chile, en la intersección entre datos ambientales y decisiones concretas.\nBuena parte de lo que hago se reparte en tres frentes:\nHuella de carbono. En Vestigium Advisors desarrollo la plataforma de cálculo de huella de carbono silvoagropecuaria: inventarios de gases de efecto invernadero bajo NCh-ISO 14064-1, verificables ante AENOR y el programa HuellaChile.\nGestión del riesgo de desastres. En Terraxis construyo herramientas de análisis territorial para planes comunales de GRD — amenazas de incendio, inundación y remoción en masa, cruzadas con exposición y vulnerabilidad censal.\nAgricultura a pequeña escala. Llevo un microfundo experimental donde pruebo, con instrumentos y registro sistemático, cómo compensar el déficit hídrico que viene en clima mediterráneo.\nEl hilo común es el método: R, Shiny, Google Earth Engine y la convicción de que un resultado que no se puede auditar no sirve de mucho.\nAquí publico notas de trabajo — lo que aprendo, lo que se rompe y lo que finalmente funciona."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Francisco Gárate",
+    "section": "",
+    "text": "Bienvenido\n\n\n\nnotas\n\n\n\nQué voy a publicar acá y por qué.\n\n\n\n\n\n7 ago 2026\n\n\nFrancisco Gárate\n\n\n\n\n\nNo hay resultados"
+  }
+]
