@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Francisco Gárate"
-  description: "Huella de carbono, gestión del riesgo de desastres y análisis geoespacial con R. Notas de trabajo desde el Biobío, Chile."
+  description: "Gestión del riesgo de desastres, agricultura a pequeña escala y análisis geoespacial con R. Notas de trabajo desde el Biobío, Chile."
   site-url: https://fgarate.github.io/Blog_Francisco_Garate/
   favicon: profile.jpg
   navbar:

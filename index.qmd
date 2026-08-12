@@ -1,6 +1,6 @@
 ---
 title: "Francisco Gárate"
-subtitle: "Huella de carbono · gestión del riesgo de desastres · análisis geoespacial con R"
+subtitle: "Gestión del riesgo de desastres · agricultura a pequeña escala · análisis geoespacial con R"
 listing:
   contents: posts
   feed: true

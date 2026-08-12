@@ -12,13 +12,6 @@ about:
 Soy **Francisco A. Gárate Flores**, y trabajo desde la Región del Biobío, Chile,
 en la intersección entre datos ambientales y decisiones concretas.
 
-Buena parte de lo que hago se reparte en tres frentes:
-
-**Huella de carbono.** En [Vestigium Advisors](https://vestigiumchile.cl) desarrollo
-la plataforma de cálculo de huella de carbono silvoagropecuaria: inventarios de
-gases de efecto invernadero bajo NCh-ISO 14064-1, verificables ante AENOR y el
-programa HuellaChile.
-
 **Gestión del riesgo de desastres.** En Terraxis construyo herramientas de
 análisis territorial para planes comunales de GRD — amenazas de incendio,
 inundación y remoción en masa, cruzadas con exposición y vulnerabilidad censal.
