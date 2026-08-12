@@ -1,0 +1,12 @@
+# Deteccion de lenguaje (GitHub Linguist)
+# ---------------------------------------------------------------------------
+# _freeze/ es cache generada por Quarto: contiene las librerias JS que el sitio
+# empaqueta (clipboard, quarto-listing, etc.). Sin estas reglas GitHub etiqueta
+# el repositorio como "JavaScript", porque esos .js son el unico lenguaje que
+# Linguist reconoce aqui — el contenido real son archivos .qmd.
+_freeze/** linguist-generated
+**/site_libs/** linguist-vendored
+
+# El sitio renderizado, si alguna vez se versiona, tampoco es codigo fuente.
+_site/** linguist-generated
+docs/** linguist-generated
