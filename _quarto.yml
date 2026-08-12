@@ -22,6 +22,9 @@ website:
         aria-label: RSS
   page-footer:
     center: "© 2026 Francisco A. Gárate Flores"
+  # Genera las etiquetas Open Graph para que al compartir el enlace
+  # (LinkedIn, WhatsApp, Bluesky) aparezca titulo, resumen e imagen.
+  open-graph: true
 
 format:
   html:

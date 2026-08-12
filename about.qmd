@@ -1,5 +1,6 @@
 ---
 title: "Sobre mí"
+description: "Francisco A. Gárate Flores — análisis territorial de riesgo de desastres, agricultura a pequeña escala y datos espaciales con R, desde la Región del Biobío, Chile."
 image: profile.jpg
 about:
   template: jolla
