@@ -8,7 +8,12 @@
 <title>Francisco Gárate</title>
 <link>https://fgarate.github.io/Blog_Francisco_Garate/</link>
 <atom:link href="https://fgarate.github.io/Blog_Francisco_Garate/index.xml" rel="self" type="application/rss+xml"/>
-<description>Gestión del riesgo de desastres, agricultura a pequeña escala y análisis geoespacial con R. Notas de trabajo desde el Biobío, Chile.</description>
+<description>Notas de trabajo de Francisco Gárate desde la Región del Biobío, Chile: análisis territorial de riesgo de desastres, agricultura a pequeña escala y datos espaciales con R.</description>
+<image>
+<url>https://fgarate.github.io/Blog_Francisco_Garate/profile.jpg</url>
+<title>Francisco Gárate</title>
+<link>https://fgarate.github.io/Blog_Francisco_Garate/</link>
+</image>
 <generator>quarto-1.9.37</generator>
 <lastBuildDate>Fri, 07 Aug 2026 04:00:00 GMT</lastBuildDate>
 <item>
