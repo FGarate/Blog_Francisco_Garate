@@ -1,6 +1,6 @@
 ---
 title: "Sobre mí"
-description: "Francisco A. Gárate Flores — análisis territorial de riesgo de desastres, agricultura a pequeña escala y datos espaciales con R, desde la Región del Biobío, Chile."
+description: "Francisco Gárate Flores Servicios de ingeniería | Sistemas de Información Geográfica (SIG) | Bases de Datos | Mapeamiento de suelos, desde la Región del Biobío, Chile."
 image: profile.jpg
 about:
   template: jolla
@@ -10,19 +10,16 @@ about:
       href: https://github.com/FGarate
 ---
 
-Soy **Francisco A. Gárate Flores**, y trabajo desde la Región del Biobío, Chile,
-en la intersección entre datos ambientales y decisiones concretas.
+Soy **Francisco A. Gárate Flores**, trabajo remoto desde la Región del Biobío, 
+Chile, con datos ambientales, territoriales generando reportería para el apoyo de 
+decisiones estratégicas.
 
-**Gestión del riesgo de desastres.** En Terraxis construyo herramientas de
-análisis territorial para planes comunales de GRD — amenazas de incendio,
+**Gestión del riesgo de desastres.** En Terraxis construyo una herramienta de
+análisis territorial para planes de GRD — amenazas de incendio,
 inundación y remoción en masa, cruzadas con exposición y vulnerabilidad censal.
 
-**Agricultura a pequeña escala.** Llevo un microfundo experimental donde pruebo,
-con instrumentos y registro sistemático, cómo compensar el déficit hídrico que
-viene en clima mediterráneo.
+**Agricultura a pequeña escala.** Llevo un microfundo con la idea de generar mi 
+propio alimento, acá pruebo con instrumentos, coberturas, imágenes además del 
+registro de datos para ir generando una forma eficiente para cultivar hortalizas
 
-El hilo común es el método: R, Shiny, Google Earth Engine y la convicción de que
-un resultado que no se puede auditar no sirve de mucho.
-
-Aquí publico notas de trabajo — lo que aprendo, lo que se rompe y lo que
-finalmente funciona.
+Aquí publico notas de trabajo, lo que aprendo, lo que se rompe y finalmente funciona.

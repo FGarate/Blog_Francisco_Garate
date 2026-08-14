@@ -1,6 +1,6 @@
 ---
 title: "Francisco Gárate"
-subtitle: "Servicios de ingeniería | Sistemas de Información Geográfica (SIG) | Bases de Datos | Mapeamiento de suelos· "
+subtitle: "Servicios de ingeniería | Sistemas de Información Geográfica (SIG) | Bases de Datos | Mapeamiento de suelos"
 description: "Espacio de algunas notas de trabajo desde la Región del Biobío, Chile: Análisis territorial, Huella de carbono, Monitoreo de una granga con R."
 image: profile.jpg
 listing:
