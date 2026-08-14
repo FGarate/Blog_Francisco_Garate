@@ -2,21 +2,24 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.37">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Notas de trabajo de Francisco Gárate desde la Región del Biobío, Chile: análisis territorial de riesgo de desastres, agricultura a pequeña escala y datos espaciales con R.">
+<meta name="description" content="Espacio de algunas notas de trabajo desde la Región del Biobío, Chile: Análisis territorial, Huella de carbono, Monitoreo de una granga con R.">
 
 <title>Francisco Gárate</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -43,10 +46,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-2908b87fff7443612154ccabe0d8658e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-c0a25197efa47bff631cf3ee78ab180c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -105,7 +108,7 @@ ul.task-list li input[type="checkbox"] {
   </script>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 const typesetMath = (el) => {
@@ -136,7 +139,7 @@ window.Quarto = {
 
 <link rel="stylesheet" href="styles.css">
 <link rel="alternate" type="application/rss+xml" title="Francisco Gárate" href="index.xml" data-external="1"><meta property="og:title" content="Francisco Gárate">
-<meta property="og:description" content="Notas de trabajo de Francisco Gárate desde la Región del Biobío, Chile: análisis territorial de riesgo de desastres, agricultura a pequeña escala y datos espaciales con R.">
+<meta property="og:description" content="Espacio de algunas notas de trabajo desde la Región del Biobío, Chile: Análisis territorial, Huella de carbono, Monitoreo de una granga con R.">
 <meta property="og:image" content="https://fgarate.github.io/Blog_Francisco_Garate/profile.jpg">
 <meta property="og:site_name" content="Francisco Gárate">
 </head>
@@ -190,10 +193,10 @@ window.Quarto = {
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-page-left">
       <h1 class="title">Francisco Gárate</h1>
-            <p class="subtitle lead">Gestión del riesgo de desastres · agricultura a pequeña escala · análisis geoespacial con R</p>
+            <p class="subtitle lead">Servicios de ingeniería | Sistemas de Información Geográfica (SIG) | Bases de Datos | Mapeamiento de suelos</p>
                   <div>
         <div class="description">
-          Notas de trabajo de Francisco Gárate desde la Región del Biobío, Chile: análisis territorial de riesgo de desastres, agricultura a pequeña escala y datos espaciales con R.
+          Espacio de algunas notas de trabajo desde la Región del Biobío, Chile: Análisis territorial, Huella de carbono, Monitoreo de una granga con R.
         </div>
       </div>
                 </div>
@@ -227,7 +230,7 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="bm90YXM=" data-listing-date-sort="1786075200000" data-listing-file-modified-sort="1786548843443" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="109">
+<div class="quarto-post image-right" data-index="0" data-categories="bm90YXM=" data-listing-date-sort="1786060800000" data-listing-file-modified-sort="1786685626474" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="109">
 <div class="thumbnail"><a href="./posts/bienvenido/index.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>

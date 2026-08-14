@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Francisco Gárate",
+    "section": "",
+    "text": "Bienvenido\n\n\n\nnotas\n\n\n\nQué voy a publicar acá y por qué.\n\n\n\n\n\n7 ago 2026\n\n\nFrancisco Gárate\n\n\n\n\n\nNo hay resultados"
+  },
+  {
     "objectID": "posts/bienvenido/index.html",
     "href": "posts/bienvenido/index.html",
     "title": "Bienvenido",
@@ -11,13 +18,6 @@
     "href": "about.html",
     "title": "Sobre mí",
     "section": "",
-    "text": "Soy Francisco A. Gárate Flores, y trabajo desde la Región del Biobío, Chile, en la intersección entre datos ambientales y decisiones concretas.\nGestión del riesgo de desastres. En Terraxis construyo herramientas de análisis territorial para planes comunales de GRD — amenazas de incendio, inundación y remoción en masa, cruzadas con exposición y vulnerabilidad censal.\nAgricultura a pequeña escala. Llevo un microfundo experimental donde pruebo, con instrumentos y registro sistemático, cómo compensar el déficit hídrico que viene en clima mediterráneo.\nEl hilo común es el método: R, Shiny, Google Earth Engine y la convicción de que un resultado que no se puede auditar no sirve de mucho.\nAquí publico notas de trabajo — lo que aprendo, lo que se rompe y lo que finalmente funciona."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Francisco Gárate",
-    "section": "",
-    "text": "Bienvenido\n\n\n\nnotas\n\n\n\nQué voy a publicar acá y por qué.\n\n\n\n\n\n7 ago 2026\n\n\nFrancisco Gárate\n\n\n\n\n\nNo hay resultados"
+    "text": "Soy Francisco A. Gárate Flores, trabajo remoto desde la Región del Biobío, Chile, con datos ambientales, territoriales generando reportería para el apoyo de decisiones estratégicas.\nGestión del riesgo de desastres. En Terraxis construyo una herramienta de análisis territorial para planes de GRD — amenazas de incendio, inundación y remoción en masa, cruzadas con exposición y vulnerabilidad censal.\nAgricultura a pequeña escala. Llevo un microfundo con la idea de generar mi propio alimento, acá pruebo con instrumentos, coberturas, imágenes además del registro de datos para ir generando una forma eficiente para cultivar hortalizas\nAquí publico notas de trabajo, lo que aprendo, lo que se rompe y finalmente funciona."
   }
 ]

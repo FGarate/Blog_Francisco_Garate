@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://fgarate.github.io/Blog_Francisco_Garate/index.html</loc>
+    <lastmod>2026-08-14T05:33:46.474Z</lastmod>
+  </url>
+  <url>
     <loc>https://fgarate.github.io/Blog_Francisco_Garate/posts/bienvenido/index.html</loc>
-    <lastmod>2026-08-12T15:34:03.443Z</lastmod>
+    <lastmod>2026-08-14T05:33:46.474Z</lastmod>
   </url>
   <url>
     <loc>https://fgarate.github.io/Blog_Francisco_Garate/about.html</loc>
-    <lastmod>2026-08-12T15:40:13.213Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fgarate.github.io/Blog_Francisco_Garate/index.html</loc>
-    <lastmod>2026-08-12T15:40:06.304Z</lastmod>
+    <lastmod>2026-08-14T05:33:46.474Z</lastmod>
   </url>
 </urlset>
