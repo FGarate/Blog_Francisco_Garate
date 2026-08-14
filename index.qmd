@@ -1,7 +1,7 @@
 ---
 title: "Francisco Gárate"
-subtitle: "Gestión del riesgo de desastres · agricultura a pequeña escala · análisis geoespacial con R"
-description: "Notas de trabajo de Francisco Gárate desde la Región del Biobío, Chile: análisis territorial de riesgo de desastres, agricultura a pequeña escala y datos espaciales con R."
+subtitle: "Servicios de ingeniería | Sistemas de Información Geográfica (SIG) | Bases de Datos | Mapeamiento de suelos· "
+description: "Espacio de algunas notas de trabajo desde la Región del Biobío, Chile: Análisis territorial, Huella de carbono, Monitoreo de una granga con R."
 image: profile.jpg
 listing:
   contents: posts
