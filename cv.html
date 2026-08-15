@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Espacio de algunas notas de trabajo desde la Región del Biobío, Chile: Análisis territorial, Huella de carbono, Monitoreo de una granga con R.">
+<meta name="description" content="CV de Francisco A. Gárate-Flores — Sistemas de Información Geográfica, suelos forestales, bases de datos y mapeamiento de suelos.">
 
-<title>Francisco Gárate</title>
+<title>Currículum – Francisco Gárate</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -38,8 +38,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./profile.jpg" rel="icon" type="image/jpeg">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -77,69 +75,11 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Buscar"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
-<link rel="alternate" type="application/rss+xml" title="Francisco Gárate" href="index.xml" data-external="1"><meta property="og:title" content="Francisco Gárate">
-<meta property="og:description" content="Espacio de algunas notas de trabajo desde la Región del Biobío, Chile: Análisis territorial, Huella de carbono, Monitoreo de una granga con R.">
+<meta property="og:title" content="Currículum – Francisco Gárate">
+<meta property="og:description" content="CV de Francisco A. Gárate-Flores — Sistemas de Información Geográfica, suelos forestales, bases de datos y mapeamiento de suelos.">
 <meta property="og:image" content="https://fgarate.github.io/Blog_Francisco_Garate/profile.jpg">
 <meta property="og:site_name" content="Francisco Gárate">
 </head>
@@ -147,7 +87,7 @@ window.Quarto = {
 <body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -162,7 +102,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Inicio</span></a>
   </li>  
   <li class="nav-item">
@@ -170,7 +110,7 @@ window.Quarto = {
 <span class="menu-text">Sobre mí</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./cv.html"> 
+    <a class="nav-link active" href="./cv.html" aria-current="page"> 
 <span class="menu-text">CV</span></a>
   </li>  
 </ul>
@@ -193,80 +133,193 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">Francisco Gárate</h1>
-            <p class="subtitle lead">Servicios de ingeniería | Sistemas de Información Geográfica (SIG) | Bases de Datos | Mapeamiento de suelos</p>
-                  <div>
-        <div class="description">
-          Espacio de algunas notas de trabajo desde la Región del Biobío, Chile: Análisis territorial, Huella de carbono, Monitoreo de una granga con R.
-        </div>
-      </div>
-                </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta column-page-left">
-
-      
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categorías</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Todas <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bm90YXM=">notas <span class="quarto-category-count">(1)</span></div></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">En esta página</h2>
+   
+  <ul>
+  <li><a href="#francisco-a.-gárate-flores" id="toc-francisco-a.-gárate-flores" class="nav-link active" data-scroll-target="#francisco-a.-gárate-flores">Francisco A. Gárate-Flores</a>
+  <ul class="collapse">
+  <li><a href="#perfil-profesional" id="toc-perfil-profesional" class="nav-link" data-scroll-target="#perfil-profesional">Perfil profesional</a></li>
+  <li><a href="#experiencia-profesional" id="toc-experiencia-profesional" class="nav-link" data-scroll-target="#experiencia-profesional">Experiencia profesional</a>
+  <ul class="collapse">
+  <li><a href="#servicios-de-ingeniería-profesional-independiente-terraxis" id="toc-servicios-de-ingeniería-profesional-independiente-terraxis" class="nav-link" data-scroll-target="#servicios-de-ingeniería-profesional-independiente-terraxis">Servicios de ingeniería — Profesional independiente (Terraxis)</a></li>
+  <li><a href="#arauco-s.a.-encargado-patrimonial" id="toc-arauco-s.a.-encargado-patrimonial" class="nav-link" data-scroll-target="#arauco-s.a.-encargado-patrimonial">ARAUCO S.A. — Encargado Patrimonial</a></li>
+  <li><a href="#bioforest-s.a.-centro-de-investigación-forestal-de-arauco" id="toc-bioforest-s.a.-centro-de-investigación-forestal-de-arauco" class="nav-link" data-scroll-target="#bioforest-s.a.-centro-de-investigación-forestal-de-arauco">BIOFOREST S.A. (centro de investigación forestal de ARAUCO)</a></li>
+  <li><a href="#ecofor-ltda.-supervisor" id="toc-ecofor-ltda.-supervisor" class="nav-link" data-scroll-target="#ecofor-ltda.-supervisor">Ecofor Ltda. — Supervisor</a></li>
+  </ul></li>
+  <li><a href="#formación-académica" id="toc-formación-académica" class="nav-link" data-scroll-target="#formación-académica">Formación académica</a></li>
+  <li><a href="#competencias-técnicas" id="toc-competencias-técnicas" class="nav-link" data-scroll-target="#competencias-técnicas">Competencias técnicas</a></li>
+  <li><a href="#idiomas" id="toc-idiomas" class="nav-link" data-scroll-target="#idiomas">Idiomas</a></li>
+  <li><a href="#biografía" id="toc-biografía" class="nav-link" data-scroll-target="#biografía">Biografía</a></li>
+  </ul></li>
+  </ul>
+<div class="quarto-alternate-formats"><h2>Otros formatos</h2><ul><li><a href="cv.pdf"><i class="bi bi-file-pdf"></i>Typst</a></li></ul></div></nav>
+    </div>
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
-
-
-
-
-
-
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="bm90YXM=" data-listing-date-sort="1786060800000" data-listing-file-modified-sort="1786753830323" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="109">
-<div class="thumbnail"><a href="./posts/bienvenido/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/bienvenido/index.html" class="no-external">Bienvenido</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('bm90YXM='); return false;">notas</div>
-
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Currículum</h1>
 </div>
-<div class="delink listing-description"><a href="./posts/bienvenido/index.html" class="no-external">
-<p>Qué voy a publicar acá y por qué.</p>
-</a></div>
+
+<div>
+  <div class="description">
+    CV de Francisco A. Gárate-Flores — Sistemas de Información Geográfica, suelos forestales, bases de datos y mapeamiento de suelos.
+  </div>
 </div>
-<div class="metadata">
-<a href="./posts/bienvenido/index.html" class="no-external">
-<div class="listing-date">
-7 ago 2026
-</div>
-<div class="listing-author">
-Francisco Gárate
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No hay resultados</div>
-</div></main> <!-- /main -->
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p><a href="cv.pdf">📄 Descargar en PDF</a></p>
+<section id="francisco-a.-gárate-flores" class="level1">
+<h1>Francisco A. Gárate-Flores</h1>
+<p><strong>Servicios de ingeniería | Sistemas de Información Geográfica (SIG) | Bases de Datos | Mapeamiento de suelos</strong></p>
+<p>Región del Biobío, Chile · <a href="https://www.linkedin.com/in/fcogarate">linkedin.com/in/fcogarate</a></p>
+<hr>
+<section id="perfil-profesional" class="level2">
+<h2 class="anchored" data-anchor-id="perfil-profesional">Perfil profesional</h2>
+<p>Ingeniero de Ejecución Forestal con más de 20 años de trayectoria en el sector forestal chileno — investigación forestal aplicada, cartografía de suelos y gestión territorial. Especializado en el mapeamiento de suelos y sitios forestales, la modelación de productividad de sitio y la administración de bases de datos espaciales para plantaciones de <em>Pinus radiata</em>, <em>Eucalyptus nitens</em> y <em>Eucalyptus globulus</em>. Experiencia complementaria en gestión patrimonial predial, prevención de incendios forestales y relacionamiento comunitario. Desde 2025 opera además como profesional independiente en servicios de ingeniería, bajo la marca <strong>Terraxis</strong>.</p>
+<hr>
+</section>
+<section id="experiencia-profesional" class="level2">
+<h2 class="anchored" data-anchor-id="experiencia-profesional">Experiencia profesional</h2>
+<section id="servicios-de-ingeniería-profesional-independiente-terraxis" class="level3">
+<h3 class="anchored" data-anchor-id="servicios-de-ingeniería-profesional-independiente-terraxis">Servicios de ingeniería — Profesional independiente (Terraxis)</h3>
+<p><strong>09-2025 – actualidad</strong> · Chile</p>
+<p>Prestación independiente de servicios de ingeniería en las líneas de SIG, bases de datos y mapeamiento de suelos, bajo la marca Terraxis.</p>
+<hr>
+</section>
+<section id="arauco-s.a.-encargado-patrimonial" class="level3">
+<h3 class="anchored" data-anchor-id="arauco-s.a.-encargado-patrimonial">ARAUCO S.A. — Encargado Patrimonial</h3>
+<p><strong>10-2023 – 09-2025</strong> · 2 años · Jornada completa · Presencial · Subgerencia de Patrimonio, Paisaje Productivo Protegido Secanos del Biobío, Santa Juana</p>
+<p>Promovido desde Bioforest S.A. a ARAUCO S.A. para la gestión integral de predios, con enfoque en productividad, prevención de riesgos y relaciones comunitarias.</p>
+<ul>
+<li>Coordinación y supervisión de la planificación y ejecución de medidas de prevención en la Ruta de la Madera R-156 (apoyo y coordinación de faenas de corta especial).</li>
+<li>Apoyo en eventos de remoción en masa en la Escuela Rural de Colico (contención en ruta).</li>
+<li>Generación de medidas de prevención: implementación de cortafuegos y apoyo en faenas de fuego técnico para reducción de combustible, conforme a lineamientos CONAF y protocolos internos de seguridad territorial.</li>
+<li>Análisis de riesgo diario en faenas de corta especial.</li>
+<li>Vinculación permanente con vecinos, municipalidades, juntas de vecinos y apicultores: colaboración, comunicación efectiva y resolución de conflictos por uso y manejo del territorio.</li>
+<li>Aplicación de experiencia en suelos (adquirida en Bioforest S.A.) como respaldo técnico para optimizar medidas de prevención según características del terreno.</li>
+<li>Elaboración de reportes técnicos y resúmenes de avance para la dirección.</li>
+</ul>
+<p><em>Aptitudes asociadas: Sistemas de Información Geográfica, R, Gestión de Relaciones Comunitarias.</em></p>
+<hr>
+</section>
+<section id="bioforest-s.a.-centro-de-investigación-forestal-de-arauco" class="level3">
+<h3 class="anchored" data-anchor-id="bioforest-s.a.-centro-de-investigación-forestal-de-arauco">BIOFOREST S.A. (centro de investigación forestal de ARAUCO)</h3>
+<p><strong>03-2006 – 10-2023</strong> · 17 años 7 meses · Región del Biobío, Chile</p>
+<p>Trayectoria continua en el centro de investigación, con responsabilidades crecientes hasta la promoción a ARAUCO S.A. en octubre de 2023:</p>
+<p><strong>Supervisor of Soils and Forest Sites</strong> — <em>03-2006 – 10-2023</em></p>
+<ul>
+<li>Rol de supervisión de suelos y sitios forestales durante proyecto de mapeamiento.</li>
+<li>Establecimiento y medición de ensayos forestales múltiples: control de malezas, fertilización, bioenergía.</li>
+<li>Ensayos y mediciones de fisiología: índice de área foliar (LAI), sanidad forestal.</li>
+<li>Rol de supervisión en inventario forestal y operaciones forestales (cosecha).</li>
+<li>Gestión de bases de datos.</li>
+</ul>
+<p><strong>Project Manager — Mapeamiento de suelos y cartografía</strong> — <em>12-2014 – 10-2023</em></p>
+<ul>
+<li>Estimación de productividad de sitio basada en modelos (<em>Model-Based Estimating Site Productivity</em>).</li>
+<li>Coordinación del mapeamiento de suelos del patrimonio de Forestal Arauco.</li>
+<li>Generación de productividad potencial para <em>Pinus radiata</em>, <em>Eucalyptus nitens</em> y <em>Eucalyptus globulus</em>.</li>
+<li>Elaboración, actualización y puesta a disposición de cartografía.</li>
+<li>Descripción de suelos y desarrollo de mapas.</li>
+<li>Gestión de bases de datos.</li>
+</ul>
+<p><strong>Investigador Adjunto (Research Associate)</strong> — <em>01-2017 – 10-2023</em> · Jornada completa</p>
+<p>Investigación asociada en Bioforest S.A.</p>
+<p><em>Aptitudes asociadas: R.</em></p>
+<hr>
+</section>
+<section id="ecofor-ltda.-supervisor" class="level3">
+<h3 class="anchored" data-anchor-id="ecofor-ltda.-supervisor">Ecofor Ltda. — Supervisor</h3>
+<p><strong>12-2004 – 03-2006</strong> · 1 año 4 meses · Chile</p>
+<ul>
+<li>Establecimiento y medición de ensayos forestales múltiples: control de malezas, fertilización, bioenergía.</li>
+<li>Ensayos y mediciones de fisiología: índice de área foliar, sanidad forestal.</li>
+<li>Rol de supervisión en inventario forestal y operaciones forestales (cosecha).</li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="formación-académica" class="level2">
+<h2 class="anchored" data-anchor-id="formación-académica">Formación académica</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Institución</th>
+<th>Programa</th>
+<th>Período</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Universidad Católica de la Santísima Concepción</td>
+<td>Diplomado en Sistemas de Información Geográfica (GIS)</td>
+<td>01-2013 – 12-2013</td>
+</tr>
+<tr class="even">
+<td>Instituto Profesional Virginio Gómez</td>
+<td>Ingeniería de Ejecución Forestal — Silvicultura (título obtenido)</td>
+<td>03-1999 – 12-2002</td>
+</tr>
+<tr class="odd">
+<td>Liceo Nueva Zelandia de Santa Juana</td>
+<td>Técnico Forestal — Silvicultura</td>
+<td>1995 – 1998</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Diplomado SIG (UCSC):</strong> aplicación de herramientas conceptuales y prácticas de Sistemas de Información Geográfica a problemas de evaluación, administración y gestión del medio ambiente y el territorio.</p>
+<hr>
+</section>
+<section id="competencias-técnicas" class="level2">
+<h2 class="anchored" data-anchor-id="competencias-técnicas">Competencias técnicas</h2>
+<p><strong>Suelos y silvicultura</strong> Estudio y descripción de suelos · Fertilidad de suelos · Mapeamiento de suelos y sitios forestales · Modelación de productividad de sitio · Ensayos silvícolas (fertilización, control de malezas, bioenergía) · Fisiología forestal (índice de área foliar, sanidad forestal) · Inventario y operaciones forestales</p>
+<p><strong>Geomática</strong> Sistemas de Información Geográfica (SIG) · ArcGIS · Cartografía · Imágenes satelitales / teledetección</p>
+<p><strong>Programación y datos</strong> R · Gestión y administración de bases de datos</p>
+<p><strong>Gestión</strong> Gestión de relaciones comunitarias · Prevención de incendios forestales (cortafuegos, fuego técnico, lineamientos CONAF) · Análisis de riesgo operacional · Reportería técnica para dirección</p>
+<hr>
+</section>
+<section id="idiomas" class="level2">
+<h2 class="anchored" data-anchor-id="idiomas">Idiomas</h2>
+<p>Español</p>
+<hr>
+</section>
+<section id="biografía" class="level2">
+<h2 class="anchored" data-anchor-id="biografía">Biografía</h2>
+<p>Francisco A. Gárate-Flores es Ingeniero de Ejecución Forestal titulado del Instituto Profesional Virginio Gómez, con formación técnica previa en silvicultura y un Diplomado en Sistemas de Información Geográfica de la Universidad Católica de la Santísima Concepción. Su trayectoria profesional está enraizada en el territorio forestal del Biobío.</p>
+<p>Inició su recorrido en Ecofor Ltda. (2004-2006) supervisando ensayos silvícolas, mediciones de fisiología forestal y operaciones de inventario y cosecha. Desde 2006 se integró a Bioforest S.A., el centro de investigación forestal de ARAUCO, donde durante 17 años ocupó roles con responsabilidades crecientes: supervisor de suelos y sitios forestales, jefe de proyecto de mapeamiento de suelos y cartografía, e investigador adjunto.</p>
+<p>Su línea de trabajo principal en ese período fue la caracterización edáfica del patrimonio forestal y su traducción en modelos de productividad potencial para <em>Pinus radiata</em>, <em>Eucalyptus nitens</em> y <em>Eucalyptus globulus</em>. Esto implicó coordinar campañas de descripción de suelos, construir y mantener cartografía actualizada, y administrar las bases de datos asociadas. Emplea R como herramienta central de análisis, con aptitudes también en QGIS, SAGA-GIS y ArcGIS.</p>
+<p>En octubre de 2023 fue promovido a ARAUCO S.A. como Encargado Patrimonial (Subgerencia de Patrimonio, Paisaje Productivo Protegido Secanos del Biobío, con base en Santa Juana), ampliando su ámbito hacia la gestión territorial: planificación de medidas de prevención de incendios —cortafuegos y fuego técnico bajo lineamientos CONAF—, respuesta a eventos de remoción en masa, coordinación de faenas de corta especial en la Ruta de la Madera R-156, análisis de riesgo en faenas, y un trabajo sostenido de vinculación con vecinos, municipalidades, juntas de vecinos y apicultores.</p>
+<p>Desde septiembre de 2025 desarrolla servicios independientes de ingeniería bajo la marca <strong>Terraxis</strong>, orientados a SIG, bases de datos y mapeamiento de suelos.</p>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
