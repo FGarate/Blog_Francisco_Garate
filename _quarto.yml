@@ -13,6 +13,8 @@ website:
         text: Inicio
       - href: about.qmd
         text: Sobre mí
+      - href: cv.qmd
+        text: CV
     right:
       - icon: github
         href: https://github.com/FGarate

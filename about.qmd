@@ -10,13 +10,23 @@ about:
       href: https://github.com/FGarate
 ---
 
-Soy **Francisco A. Gárate Flores**, trabajo remoto desde la Región del Biobío, 
-Chile, con datos ambientales, territoriales generando reportería para el apoyo de 
-decisiones estratégicas.
+Soy **Francisco A. Gárate Flores**, trabajo remoto desde la Región del Biobío,
+Chile, con datos ambientales y territoriales generando reportería para el apoyo 
+de en la visualización, reportería y centralización de la información que permita
+tomar decisiones estratégicas.
+
+**Suelos y territorio forestal.** Vengo de 20 años en el sector silvicola, principalmente
+en la región del Biobío, de los cuales 17 años de trayectoria fueron mi formación 
+profesional en Bioforest S.A., el centro de investigación de ARAUCO, realizando 
+labores en ecodisiología, mapeando digital de suelos, modelando productividad de 
+sitio; y 2 años como Encargado Patrimonial en ARAUCO S.A., gestionando predios y 
+apoyendo en la supervisión en faenas de prevención de incendios. De ahí viene la 
+base técnica que hoy aplico en SIG, bases de datos y mapeamiento de suelos. Más
+detalle en el [CV](cv.qmd).
 
 **Gestión del riesgo de desastres.** En Terraxis construyo una herramienta de
-análisis territorial para planes de GRD — amenazas de incendio,
-inundación y remoción en masa, cruzadas con exposición y vulnerabilidad censal.
+análisis territorial para planes de GRD — amenazas de incendio, inundación y 
+remoción en masa, cruzadas con exposición y vulnerabilidad censal.
 
 **Agricultura a pequeña escala.** Llevo un microfundo con la idea de generar mi 
 propio alimento, acá pruebo con instrumentos, coberturas, imágenes además del 

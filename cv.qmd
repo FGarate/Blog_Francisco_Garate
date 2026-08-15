@@ -1,0 +1,142 @@
+---
+title: "Currículum"
+description: "CV de Francisco A. Gárate-Flores — Sistemas de Información Geográfica, suelos forestales, bases de datos y mapeamiento de suelos."
+image: profile.jpg
+toc: true
+format:
+  html:
+    toc: true
+  typst:
+    papersize: a4
+    margin:
+      x: 2cm
+      y: 1.8cm
+---
+
+[📄 Descargar en PDF](cv.pdf)
+
+# Francisco A. Gárate-Flores
+
+**Servicios de ingeniería | Sistemas de Información Geográfica (SIG) | Bases de Datos | Mapeamiento de suelos**
+
+Región del Biobío, Chile · [linkedin.com/in/fcogarate](https://www.linkedin.com/in/fcogarate)
+
+---
+
+## Perfil profesional
+
+Ingeniero de Ejecución Forestal con más de 20 años de trayectoria en el sector forestal chileno — investigación forestal aplicada, cartografía de suelos y gestión territorial. Especializado en el mapeamiento de suelos y sitios forestales, la modelación de productividad de sitio y la administración de bases de datos espaciales para plantaciones de *Pinus radiata*, *Eucalyptus nitens* y *Eucalyptus globulus*. Experiencia complementaria en gestión patrimonial predial, prevención de incendios forestales y relacionamiento comunitario. Desde 2025 opera además como profesional independiente en servicios de ingeniería, bajo la marca **Terraxis**.
+
+---
+
+## Experiencia profesional
+
+### Servicios de ingeniería — Profesional independiente (Terraxis)
+**09-2025 – actualidad** · Chile
+
+Prestación independiente de servicios de ingeniería en las líneas de SIG, bases de datos y mapeamiento de suelos, bajo la marca Terraxis.
+
+---
+
+### ARAUCO S.A. — Encargado Patrimonial
+**10-2023 – 09-2025** · 2 años · Jornada completa · Presencial · Subgerencia de Patrimonio, Paisaje Productivo Protegido Secanos del Biobío, Santa Juana
+
+Promovido desde Bioforest S.A. a ARAUCO S.A. para la gestión integral de predios, con enfoque en productividad, prevención de riesgos y relaciones comunitarias.
+
+- Coordinación y supervisión de la planificación y ejecución de medidas de prevención en la Ruta de la Madera R-156 (apoyo y coordinación de faenas de corta especial).
+- Apoyo en eventos de remoción en masa en la Escuela Rural de Colico (contención en ruta).
+- Generación de medidas de prevención: implementación de cortafuegos y apoyo en faenas de fuego técnico para reducción de combustible, conforme a lineamientos CONAF y protocolos internos de seguridad territorial.
+- Análisis de riesgo diario en faenas de corta especial.
+- Vinculación permanente con vecinos, municipalidades, juntas de vecinos y apicultores: colaboración, comunicación efectiva y resolución de conflictos por uso y manejo del territorio.
+- Aplicación de experiencia en suelos (adquirida en Bioforest S.A.) como respaldo técnico para optimizar medidas de prevención según características del terreno.
+- Elaboración de reportes técnicos y resúmenes de avance para la dirección.
+
+*Aptitudes asociadas: Sistemas de Información Geográfica, R, Gestión de Relaciones Comunitarias.*
+
+---
+
+### BIOFOREST S.A. (centro de investigación forestal de ARAUCO)
+
+**03-2006 – 10-2023** · 17 años 7 meses · Región del Biobío, Chile
+
+Trayectoria continua en el centro de investigación, con responsabilidades crecientes hasta la promoción a ARAUCO S.A. en octubre de 2023:
+
+**Supervisor of Soils and Forest Sites** — *03-2006 – 10-2023*
+
+- Rol de supervisión de suelos y sitios forestales durante proyecto de mapeamiento.
+- Establecimiento y medición de ensayos forestales múltiples: control de malezas, fertilización, bioenergía.
+- Ensayos y mediciones de fisiología: índice de área foliar (LAI), sanidad forestal.
+- Rol de supervisión en inventario forestal y operaciones forestales (cosecha).
+- Gestión de bases de datos.
+
+**Project Manager — Mapeamiento de suelos y cartografía** — *12-2014 – 10-2023*
+
+- Estimación de productividad de sitio basada en modelos (*Model-Based Estimating Site Productivity*).
+- Coordinación del mapeamiento de suelos del patrimonio de Forestal Arauco.
+- Generación de productividad potencial para *Pinus radiata*, *Eucalyptus nitens* y *Eucalyptus globulus*.
+- Elaboración, actualización y puesta a disposición de cartografía.
+- Descripción de suelos y desarrollo de mapas.
+- Gestión de bases de datos.
+
+**Investigador Adjunto (Research Associate)** — *01-2017 – 10-2023* · Jornada completa
+
+Investigación asociada en Bioforest S.A.
+
+*Aptitudes asociadas: R.*
+
+---
+
+### Ecofor Ltda. — Supervisor
+**12-2004 – 03-2006** · 1 año 4 meses · Chile
+
+- Establecimiento y medición de ensayos forestales múltiples: control de malezas, fertilización, bioenergía.
+- Ensayos y mediciones de fisiología: índice de área foliar, sanidad forestal.
+- Rol de supervisión en inventario forestal y operaciones forestales (cosecha).
+
+---
+
+## Formación académica
+
+| Institución | Programa | Período |
+|---|---|---|
+| Universidad Católica de la Santísima Concepción | Diplomado en Sistemas de Información Geográfica (GIS) | 01-2013 – 12-2013 |
+| Instituto Profesional Virginio Gómez | Ingeniería de Ejecución Forestal — Silvicultura (título obtenido) | 03-1999 – 12-2002 |
+| Liceo Nueva Zelandia de Santa Juana | Técnico Forestal — Silvicultura | 1995 – 1998 |
+
+**Diplomado SIG (UCSC):** aplicación de herramientas conceptuales y prácticas de Sistemas de Información Geográfica a problemas de evaluación, administración y gestión del medio ambiente y el territorio.
+
+---
+
+## Competencias técnicas
+
+**Suelos y silvicultura**
+Estudio y descripción de suelos · Fertilidad de suelos · Mapeamiento de suelos y sitios forestales · Modelación de productividad de sitio · Ensayos silvícolas (fertilización, control de malezas, bioenergía) · Fisiología forestal (índice de área foliar, sanidad forestal) · Inventario y operaciones forestales
+
+**Geomática**
+Sistemas de Información Geográfica (SIG) · ArcGIS · Cartografía · Imágenes satelitales / teledetección
+
+**Programación y datos**
+R · Gestión y administración de bases de datos
+
+**Gestión**
+Gestión de relaciones comunitarias · Prevención de incendios forestales (cortafuegos, fuego técnico, lineamientos CONAF) · Análisis de riesgo operacional · Reportería técnica para dirección
+
+---
+
+## Idiomas
+
+Español
+
+---
+
+## Biografía
+
+Francisco A. Gárate-Flores es Ingeniero de Ejecución Forestal titulado del Instituto Profesional Virginio Gómez, con formación técnica previa en silvicultura y un Diplomado en Sistemas de Información Geográfica de la Universidad Católica de la Santísima Concepción. Su trayectoria profesional está enraizada en el territorio forestal del Biobío.
+
+Inició su recorrido en Ecofor Ltda. (2004-2006) supervisando ensayos silvícolas, mediciones de fisiología forestal y operaciones de inventario y cosecha. Desde 2006 se integró a Bioforest S.A., el centro de investigación forestal de ARAUCO, donde durante 17 años ocupó roles con responsabilidades crecientes: supervisor de suelos y sitios forestales, jefe de proyecto de mapeamiento de suelos y cartografía, e investigador adjunto.
+
+Su línea de trabajo principal en ese período fue la caracterización edáfica del patrimonio forestal y su traducción en modelos de productividad potencial para *Pinus radiata*, *Eucalyptus nitens* y *Eucalyptus globulus*. Esto implicó coordinar campañas de descripción de suelos, construir y mantener cartografía actualizada, y administrar las bases de datos asociadas. Emplea R como herramienta central de análisis, con aptitudes también en QGIS, SAGA-GIS y ArcGIS.
+
+En octubre de 2023 fue promovido a ARAUCO S.A. como Encargado Patrimonial (Subgerencia de Patrimonio, Paisaje Productivo Protegido Secanos del Biobío, con base en Santa Juana), ampliando su ámbito hacia la gestión territorial: planificación de medidas de prevención de incendios —cortafuegos y fuego técnico bajo lineamientos CONAF—, respuesta a eventos de remoción en masa, coordinación de faenas de corta especial en la Ruta de la Madera R-156, análisis de riesgo en faenas, y un trabajo sostenido de vinculación con vecinos, municipalidades, juntas de vecinos y apicultores.
+
+Desde septiembre de 2025 desarrolla servicios independientes de ingeniería bajo la marca **Terraxis**, orientados a SIG, bases de datos y mapeamiento de suelos.
