@@ -33,7 +33,7 @@ format:
     theme:
       - sandstone
       - brand
-      - tema.scss
+#      - tema.scss
     css: styles.css
     toc: true
     lang: es
