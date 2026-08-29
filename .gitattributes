@@ -10,3 +10,20 @@ _freeze/** linguist-generated
 # El sitio renderizado, si alguna vez se versiona, tampoco es codigo fuente.
 _site/** linguist-generated
 docs/** linguist-generated
+
+# Saltos de linea
+# ---------------------------------------------------------------------------
+# Arranque dual Windows <-> Arch: el repo guarda LF siempre. Sin esto, con
+# core.autocrlf=true Windows hace checkout en CRLF y Linux reescribe en LF,
+# asi que al alternar de maquina un archivo tocado aparece entero como
+# modificado y ensucia los diffs.
+* text=auto eol=lf
+
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.ico  binary
+*.pdf  binary
+*.woff binary
+*.woff2 binary
