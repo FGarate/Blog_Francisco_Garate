@@ -25,7 +25,7 @@ Región del Biobío, Chile · [linkedin.com/in/fcogarate](https://www.linkedin.c
 
 ## Perfil profesional
 
-Ingeniero de Ejecución Forestal con más de 20 años de trayectoria en el sector forestal chileno — investigación forestal aplicada, cartografía de suelos y gestión territorial. Especializado en el mapeamiento de suelos y sitios forestales, la modelación de productividad de sitio y la administración de bases de datos espaciales para plantaciones de *Pinus radiata*, *Eucalyptus nitens* y *Eucalyptus globulus*. Experiencia complementaria en gestión patrimonial predial, prevención de incendios forestales y relacionamiento comunitario. Desde 2025 opera además como profesional independiente en servicios de ingeniería, bajo la marca **Terraxis**.
+Ingeniero de Ejecución Forestal con cerca de 20 años de trayectoria en el sector forestal chileno — investigación forestal aplicada, cartografía de suelos y gestión territorial. Especializado en el mapeamiento de suelos y sitios forestales, la modelación de productividad de sitio y la administración de bases de datos espaciales para plantaciones de *Pinus radiata*, *Eucalyptus nitens* y *Eucalyptus globulus*. Ha aplicado aprendizaje automático al mapeo digital de suelos, modelado la erosión con RUSLE y participado en la estimación de emisiones de gases de efecto invernadero (GEI) asociadas a incendios forestales. Experiencia complementaria en gestión patrimonial predial, prevención de incendios forestales y relacionamiento comunitario. Desde 2025 opera además como profesional independiente en servicios de ingeniería, bajo la marca **Terraxis**, y apoya el desarrollo de la Calculadora Vestigium, una herramienta para calcular inventarios de GEI de organizaciones.
 
 ---
 
@@ -38,28 +38,35 @@ Prestación independiente de servicios de ingeniería en las líneas de SIG, bas
 
 ---
 
-### ARAUCO S.A. — Encargado Patrimonial
-**10-2023 – 09-2025** · 2 años · Jornada completa · Presencial · Subgerencia de Patrimonio, Paisaje Productivo Protegido Secanos del Biobío, Santa Juana
+### Vestigium — Apoyo al desarrollo de la Calculadora Vestigium
+**2025 – actualidad** · Chile
 
-Promovido desde Bioforest S.A. a ARAUCO S.A. para la gestión integral de predios, con enfoque en productividad, prevención de riesgos y relaciones comunitarias.
+Apoyo al desarrollo de la Calculadora Vestigium, una herramienta para calcular inventarios de gases de efecto invernadero (GEI) de organizaciones. Más información en [vestigiumchile.cl](https://www.vestigiumchile.cl/).
+
+---
+
+### Una de las mayores empresas forestales del mundo — Encargado Patrimonial
+**10-2023 – 09-2025** · 2 años · Jornada completa · Presencial · Subgerencia de Patrimonio, Santa Juana
+
+Promovido desde el centro de investigación de esa misma compañía para la gestión integral de predios, con enfoque en productividad, prevención de riesgos y relaciones comunitarias.
 
 - Coordinación y supervisión de la planificación y ejecución de medidas de prevención en la Ruta de la Madera R-156 (apoyo y coordinación de faenas de corta especial).
 - Apoyo en eventos de remoción en masa en la Escuela Rural de Colico (contención en ruta).
 - Generación de medidas de prevención: implementación de cortafuegos y apoyo en faenas de fuego técnico para reducción de combustible, conforme a lineamientos CONAF y protocolos internos de seguridad territorial.
 - Análisis de riesgo diario en faenas de corta especial.
 - Vinculación permanente con vecinos, municipalidades, juntas de vecinos y apicultores: colaboración, comunicación efectiva y resolución de conflictos por uso y manejo del territorio.
-- Aplicación de experiencia en suelos (adquirida en Bioforest S.A.) como respaldo técnico para optimizar medidas de prevención según características del terreno.
+- Aplicación de experiencia en suelos (adquirida en el centro de investigación de esa compañía) como respaldo técnico para optimizar medidas de prevención según características del terreno.
 - Elaboración de reportes técnicos y resúmenes de avance para la dirección.
 
 *Aptitudes asociadas: Sistemas de Información Geográfica, R, Gestión de Relaciones Comunitarias.*
 
 ---
 
-### BIOFOREST S.A. (centro de investigación forestal de ARAUCO)
+### Centro de investigación forestal de esa misma compañía
 
 **03-2006 – 10-2023** · 17 años 7 meses · Región del Biobío, Chile
 
-Trayectoria continua en el centro de investigación, con responsabilidades crecientes hasta la promoción a ARAUCO S.A. en octubre de 2023:
+Trayectoria continua en el centro de investigación, con responsabilidades crecientes hasta la promoción a la compañía en octubre de 2023:
 
 **Supervisor of Soils and Forest Sites** — *03-2006 – 10-2023*
 
@@ -72,7 +79,7 @@ Trayectoria continua en el centro de investigación, con responsabilidades creci
 **Project Manager — Mapeamiento de suelos y cartografía** — *12-2014 – 10-2023*
 
 - Estimación de productividad de sitio basada en modelos (*Model-Based Estimating Site Productivity*).
-- Coordinación del mapeamiento de suelos del patrimonio de Forestal Arauco.
+- Coordinación del mapeamiento de suelos del patrimonio de esa compañía.
 - Generación de productividad potencial para *Pinus radiata*, *Eucalyptus nitens* y *Eucalyptus globulus*.
 - Elaboración, actualización y puesta a disposición de cartografía.
 - Descripción de suelos y desarrollo de mapas.
@@ -80,7 +87,7 @@ Trayectoria continua en el centro de investigación, con responsabilidades creci
 
 **Investigador Adjunto (Research Associate)** — *01-2017 – 10-2023* · Jornada completa
 
-Investigación asociada en Bioforest S.A.
+Investigación asociada en el centro de investigación de esa compañía.
 
 *Aptitudes asociadas: R.*
 
@@ -107,16 +114,27 @@ Investigación asociada en Bioforest S.A.
 
 ---
 
+## Publicaciones y presentaciones
+
+- Coautor de la línea base de stocks de carbono en plantaciones de Chile. *Forests*, vol. 11, art. 1063 (2020).
+- Briones R., Gárate F., Jerez V. (2012). *Insectos de Chile nativos, introducidos y con problemas de conservación. Guía de campo.* Corporación Chilena de la Madera, Concepción. ISBN 978-956-8398-05-7.
+- Presentación del mapeo digital de suelos con aprendizaje automático (9.920 perfiles de suelo de la macrozona forestal de Chile). Congreso Chileno de Ciencias Forestales, noviembre de 2022.
+
+---
+
 ## Competencias técnicas
 
 **Suelos y silvicultura**
-Estudio y descripción de suelos · Fertilidad de suelos · Mapeamiento de suelos y sitios forestales · Modelación de productividad de sitio · Ensayos silvícolas (fertilización, control de malezas, bioenergía) · Fisiología forestal (índice de área foliar, sanidad forestal) · Inventario y operaciones forestales
+Estudio y descripción de suelos · Fertilidad de suelos · Mapeamiento de suelos y sitios forestales · Modelación de productividad de sitio · Ensayos silvícolas (fertilización, control de malezas, bioenergía) · Fisiología forestal (índice de área foliar, sanidad forestal) · Inventario y operaciones forestales · Mapeo digital de suelos con aprendizaje automático · Modelamiento de erosión (RUSLE)
 
 **Geomática**
 Sistemas de Información Geográfica (SIG) · ArcGIS · Cartografía · Imágenes satelitales / teledetección
 
 **Programación y datos**
-R · Gestión y administración de bases de datos
+R · PostgreSQL / PostGIS · Business Intelligence · Gestión y administración de bases de datos
+
+**Carbono y clima**
+Emisiones de gases de efecto invernadero asociadas a incendios forestales · Líneas base de stocks de carbono en plantaciones · Calculadora Vestigium (apoyo al desarrollo)
 
 **Gestión**
 Gestión de relaciones comunitarias · Prevención de incendios forestales (cortafuegos, fuego técnico, lineamientos CONAF) · Análisis de riesgo operacional · Reportería técnica para dirección
@@ -133,10 +151,10 @@ Español
 
 Francisco A. Gárate-Flores es Ingeniero de Ejecución Forestal titulado del Instituto Profesional Virginio Gómez, con formación técnica previa en silvicultura y un Diplomado en Sistemas de Información Geográfica de la Universidad Católica de la Santísima Concepción. Su trayectoria profesional está enraizada en el territorio forestal del Biobío.
 
-Inició su recorrido en Ecofor Ltda. (2004-2006) supervisando ensayos silvícolas, mediciones de fisiología forestal y operaciones de inventario y cosecha. Desde 2006 se integró a Bioforest S.A., el centro de investigación forestal de ARAUCO, donde durante 17 años ocupó roles con responsabilidades crecientes: supervisor de suelos y sitios forestales, jefe de proyecto de mapeamiento de suelos y cartografía, e investigador adjunto.
+Inició su recorrido en Ecofor Ltda. (2004-2006) supervisando ensayos silvícolas, mediciones de fisiología forestal y operaciones de inventario y cosecha. Desde 2006 se integró al centro de investigación forestal de una de las mayores empresas forestales del mundo, donde durante 17 años ocupó roles con responsabilidades crecientes: supervisor de suelos y sitios forestales, jefe de proyecto de mapeamiento de suelos y cartografía, e investigador adjunto.
 
-Su línea de trabajo principal en ese período fue la caracterización edáfica del patrimonio forestal y su traducción en modelos de productividad potencial para *Pinus radiata*, *Eucalyptus nitens* y *Eucalyptus globulus*. Esto implicó coordinar campañas de descripción de suelos, construir y mantener cartografía actualizada, y administrar las bases de datos asociadas. Emplea R como herramienta central de análisis, con aptitudes también en QGIS, SAGA-GIS y ArcGIS.
+Su línea de trabajo principal en ese período fue la caracterización edáfica del patrimonio forestal y su traducción en modelos de productividad potencial para *Pinus radiata*, *Eucalyptus nitens* y *Eucalyptus globulus*. Esto implicó coordinar campañas de descripción de suelos, construir y mantener cartografía actualizada, y administrar las bases de datos asociadas. Aplicó aprendizaje automático al mapeo digital de suelos —metodología que presentó en el Congreso Chileno de Ciencias Forestales (2022), con 9.920 perfiles de suelo de la macrozona forestal de Chile—, modeló la erosión con RUSLE y participó en la estimación de las emisiones de gases de efecto invernadero (GEI) asociadas a incendios forestales en tres países. Es coautor de la línea base de stocks de carbono en plantaciones de Chile (*Forests*, 2020) y de la guía de campo *Insectos de Chile nativos, introducidos y con problemas de conservación* (Corporación Chilena de la Madera, 2012). Emplea R como herramienta central de análisis, con aptitudes también en QGIS, SAGA-GIS y ArcGIS.
 
-En octubre de 2023 fue promovido a ARAUCO S.A. como Encargado Patrimonial (Subgerencia de Patrimonio, Paisaje Productivo Protegido Secanos del Biobío, con base en Santa Juana), ampliando su ámbito hacia la gestión territorial: planificación de medidas de prevención de incendios —cortafuegos y fuego técnico bajo lineamientos CONAF—, respuesta a eventos de remoción en masa, coordinación de faenas de corta especial en la Ruta de la Madera R-156, análisis de riesgo en faenas, y un trabajo sostenido de vinculación con vecinos, municipalidades, juntas de vecinos y apicultores.
+En octubre de 2023 fue promovido a la compañía como Encargado Patrimonial (Subgerencia de Patrimonio, con base en Santa Juana), ampliando su ámbito hacia la gestión territorial: planificación de medidas de prevención de incendios —cortafuegos y fuego técnico bajo lineamientos CONAF—, respuesta a eventos de remoción en masa, coordinación de faenas de corta especial en la Ruta de la Madera R-156, análisis de riesgo en faenas, y un trabajo sostenido de vinculación con vecinos, municipalidades, juntas de vecinos y apicultores.
 
-Desde septiembre de 2025 desarrolla servicios independientes de ingeniería bajo la marca **Terraxis**, orientados a SIG, bases de datos y mapeamiento de suelos.
+Desde septiembre de 2025 desarrolla servicios independientes de ingeniería bajo la marca **Terraxis**, orientados a SIG, bases de datos y mapeamiento de suelos. Desde 2025 apoya además el desarrollo de la Calculadora Vestigium, una herramienta para calcular inventarios de GEI de organizaciones.
